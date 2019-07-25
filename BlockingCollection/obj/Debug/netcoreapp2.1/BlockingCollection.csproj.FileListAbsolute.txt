@@ -1,0 +1,11 @@
+C:\Users\sagva\source\repos\BlockingCollection\BlockingCollection\bin\Debug\netcoreapp2.1\BlockingCollection.deps.json
+C:\Users\sagva\source\repos\BlockingCollection\BlockingCollection\bin\Debug\netcoreapp2.1\BlockingCollection.runtimeconfig.json
+C:\Users\sagva\source\repos\BlockingCollection\BlockingCollection\bin\Debug\netcoreapp2.1\BlockingCollection.runtimeconfig.dev.json
+C:\Users\sagva\source\repos\BlockingCollection\BlockingCollection\bin\Debug\netcoreapp2.1\BlockingCollection.dll
+C:\Users\sagva\source\repos\BlockingCollection\BlockingCollection\bin\Debug\netcoreapp2.1\BlockingCollection.pdb
+C:\Users\sagva\source\repos\BlockingCollection\BlockingCollection\obj\Debug\netcoreapp2.1\BlockingCollection.csprojAssemblyReference.cache
+C:\Users\sagva\source\repos\BlockingCollection\BlockingCollection\obj\Debug\netcoreapp2.1\BlockingCollection.csproj.CoreCompileInputs.cache
+C:\Users\sagva\source\repos\BlockingCollection\BlockingCollection\obj\Debug\netcoreapp2.1\BlockingCollection.AssemblyInfoInputs.cache
+C:\Users\sagva\source\repos\BlockingCollection\BlockingCollection\obj\Debug\netcoreapp2.1\BlockingCollection.AssemblyInfo.cs
+C:\Users\sagva\source\repos\BlockingCollection\BlockingCollection\obj\Debug\netcoreapp2.1\BlockingCollection.dll
+C:\Users\sagva\source\repos\BlockingCollection\BlockingCollection\obj\Debug\netcoreapp2.1\BlockingCollection.pdb
